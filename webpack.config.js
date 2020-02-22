@@ -4,7 +4,7 @@ module.exports = {
   entry: path.resolve(__dirname, 'src', 'index.js'),
   output: {
     path: path.resolve(__dirname, 'public'),
-    filename: 'blunde.js'
+    filename: 'bundle.js'
   },
   devServer: {
     contentBase: path.resolve(__dirname, 'public')
