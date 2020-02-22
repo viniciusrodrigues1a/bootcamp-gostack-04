@@ -6,7 +6,7 @@
   Introdução ao React
 </h3>
 
-<p align="center"> Código do módulo 04 do <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
+<p align="center"> Código de introdução ao React da fase 03 do <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
 
 ## :page_facing_up: Índice
 
