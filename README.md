@@ -8,9 +8,6 @@
 
 <p align="center"> Código do módulo 04 do <a href="https://rocketseat.com.br/bootcamp">Bootcamp GoStack</a> 🎓</p>
 
-<h2 align="center"> Interface web </h2>
-<img src="./.github/screenshot.png" alt="Interface web" />
-
 ## :page_facing_up: Índice
 
 - [Sobre](#about)
